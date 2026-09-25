@@ -1,0 +1,16 @@
+# Core Face Recognition & Computer Vision (Sudah terpasang di sistem Anda)
+insightface>=0.7.3
+onnxruntime>=1.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Network, Web & Utilities
+requests>=2.31.0
+certifi>=2023.7.22
+tqdm>=4.66.0
+beautifulsoup4>=4.12.0
+
+# Opsional: Jika ingin menggunakan fitur Google Cloud Vision asli GReverse
+google-cloud-vision>=3.4.0
+google-api-python-client>=2.100.0

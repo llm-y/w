@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Playwright browser profiles & temporary data
+.browser_profile/
+browser_data/
+*.log
+
+# User images & personal test data
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+test_data/
+detected_face_*.jpg
+crop_*.jpg
+crop_*.jpeg
+
+# Credential keys
+api_creds/google_vision_key.json
+api_creds/credentials.json
+*.pem
+
+# Environments
+.env
+venv/
+env/
+.venv/
